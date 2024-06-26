@@ -42,17 +42,7 @@
 
 ###
 
-<h2 align="left"></h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tsunooky&radius=16&theme=tokyo-night&area=true&order=5&hide_title=false&hide_border=false" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<h2 align="left"></h2>
+<h2 align="left">Contact me:</h2>
 
 ###
 
