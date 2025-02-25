@@ -29,6 +29,8 @@
 ###
 
 <div align="left">
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="godot logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=symfony" height="40" alt="symfony logo"  />
