@@ -4,6 +4,8 @@
 
 <p align="left">🎓 Studying at EPITA, France<br>📚 Learning new languages</p>
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
+
 ###
 
 <h2 align="left">I code with</h2>
