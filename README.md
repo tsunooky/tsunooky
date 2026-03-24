@@ -3,8 +3,6 @@
 **🎓 3rd-year Computer Science Student at [EPITA](https://www.epita.fr/en/) Paris**.\
 💡 I enjoy working on **end-to-end projects**, from research & prototyping to deployment at scale, and I like bridging theory and creativity with practical, impactful applications.
 
-[LinkedIn](https://www.linkedin.com/in/adrien-coureau/) | [Taiwan pictures](https://tsunooky.github.io/)
-
 ![](https://komarev.com/ghpvc/?username=tsunooky)
 
 ## 💠 Featured Project: [Epidots](https://github.com/tsunooky/epidots)
@@ -52,5 +50,6 @@ Turn-based multiplayer game with destructible terrain built with **Unity**. Draw
 ---
 
 ## 📬 Contact
-* **Discord:** `bv6`
-* **Email:** [adrien.coureau@epita.fr](mailto:adrien.coureau@epita.fr)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrien.coureau91@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrien-coureau/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/bv6)
