@@ -3,7 +3,7 @@
 **🎓 3rd-year Computer Science Student at [EPITA](https://www.epita.fr/en/) Paris**.\
 💡 I enjoy working on **end-to-end projects**, from research & prototyping to deployment at scale, and I like bridging theory and creativity with practical, impactful applications.
 
-[LinkedIn](https://www.linkedin.com/in/adrien-coureau/) | [GitHub](https://github.com/tsunooky) | [Taiwan pictures](https://tsunooky.github.io/)
+[LinkedIn](https://www.linkedin.com/in/adrien-coureau/) | [Taiwan pictures](https://tsunooky.github.io/)
 
 ![](https://komarev.com/ghpvc/?username=tsunooky)
 
