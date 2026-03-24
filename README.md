@@ -7,8 +7,6 @@
 
 ![](https://komarev.com/ghpvc/?username=tsunooky)
 
----
-
 ## 💠 Featured Project: [Epidots](https://github.com/tsunooky/epidots)
 **Clean, automated, and aesthetic NixOS configuration designed for EPITA computers.**
 
@@ -16,7 +14,7 @@ Inspired by my personal Arch Linux setup, Epidots provides a modern workflow wit
 
 * **Automation:** Integrated tools for AFS management (quota percentage, token refresh, cache cleaning).
 * **Workflow:** Custom aliases for Git, `clang-format`, and EPITA utilities.
-* **Theming:** Powered by **Matugen** to extract colors from wallpapers for i3, Polybar, Alacritty, and Firefox.
+* **Theming:** Automatic theming from wallpapers for i3, Polybar, Alacritty, and Firefox.
 
 **📦 One-command installation:**
 ```bash
@@ -34,17 +32,13 @@ One-command installation to run just after a fresh Arch Linux install.
 Foundation for Epidots.
 
 ### [🛠️ Installation Windows 11](https://github.com/tsunooky/InstallationWindows)
-A comprehensive guide and automation suite for a clean Windows 11 installation optimized for low RAM consumption and gaming performances.
-* **Automation:** Uses `autounattend.xml` to bypass bloatware and account restrictions.
-* **Optimization:** Registry-level tweaks for privacy and system performance while maintaining stability.
+A comprehensive guide and automation suite for a clean Windows 11 installation optimized for low RAM consumption and gaming performances. Bypass bloatware and Microsoft account restrictions while keeping maximum stability.
 
 ### [🎮 Shape Glitch](https://github.com/Darkrentin/ShapeGlitch)
-Experimental adventure game in **Godot 4.0 (C#)** where OS windows are the core gameplay mechanic. Play ~1 hour of original gameplay (with online speedrun leaderboard to compete against others).
-* Composed original soundtrack of 6 musics in FL Studio.
+Experimental adventure game in **Godot 4.0 (C#)** where OS windows are the core gameplay mechanic. Play ~1 hour of original gameplay (with online speedrun leaderboard to compete against others). Original soundtrack of 6 musics composed on FL Studio.
 
 ### [⚔️ Animatch](https://github.com/tsunooky/Animatch)
-Turn-based multiplayer game with destructible terrain built with **Unity**.
-* Drawn 180+ custom graphic assets in a cartoon style and composed original soundtrack in FL Studio.
+Turn-based multiplayer game with destructible terrain built with **Unity**. Drawn 180+ custom graphic assets in a cartoon style and composed original soundtrack on FL Studio.
 
 ---
 
@@ -53,9 +47,7 @@ Turn-based multiplayer game with destructible terrain built with **Unity**.
 | Category | Tools & Languages |
 | :--- | :--- |
 | **Languages** | C, C++, C#, Java, SQL, Shell, Python |
-| **Environment** | Arch Linux, NixOS, i3, Neovim, Docker |
-| **Frameworks** | Sulu CMS, Git, Godot, Unity, LaTeX |
-| **Creative workflow** | FL Studio, Clip Studio Paint |
+| **Frameworks** | Sulu CMS, Git, Godot, Unity, LaTeX, FL Studio, CSP |
 
 ---
 
