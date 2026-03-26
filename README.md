@@ -18,7 +18,7 @@ Inspired by my personal Arch Linux setup, Epidots provides a modern workflow wit
 ```bash
 curl -L epidots.dserv.fr | sh -s
 ```
-*Join the [Discord Server](https://discord.gg/your-link-here) for support.*
+*Join the [Discord Server](https://discord.gg/ftsGDqBfWY) for support.*
 
 ---
 
