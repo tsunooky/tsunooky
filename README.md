@@ -1,7 +1,7 @@
 # Hi, I'm Adrien 👋
 
 **🎓 3rd-year Computer Science Student at [EPITA](https://www.epita.fr/en/) Paris**.\
-💡 I enjoy working on **end-to-end projects**, from research & prototyping to deployment at scale, and I like bridging theory and creativity with practical, impactful applications.
+💡 I enjoy working on **creative end-to-end projects**, from prototyping to deployment.
 
 ![](https://komarev.com/ghpvc/?username=tsunooky)
 
